@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/120x120.png?text=P" alt="Pivokart Logo" width="120" />
+  <img src="https://mcp.pivokart.in/logo.png" alt="Pivokart Logo" width="120" />
 </p>
 
 <h1 align="center">🍔 Pivokart MCP Server</h1>
@@ -9,19 +9,19 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME/pivokart-mcp?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/YOUR_USERNAME/pivokart-mcp?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/YOUR_USERNAME/pivokart-mcp?style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues/YOUR_USERNAME/pivokart-mcp?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/adjsdevelopers/pivokart-mcp?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/adjsdevelopers/pivokart-mcp?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/adjsdevelopers/pivokart-mcp?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues/adjsdevelopers/pivokart-mcp?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MCP-Enabled-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/API-REST-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Auth-OAuth2-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://via.placeholder.com/1000x300.png?text=Pivokart+Food+Delivery+MCP" alt="Banner" />
-</p>
+</p> -->
 
 ---
 
