@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/adjsdevelopers/Pivokart-mcp-manifes?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/adjsdevelopers/pivokart-mcp?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/adjsdevelopers/pivokart-mcp?style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues/adjsdevelopers/pivokart-mcp?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/adjsdevelopers/Pivokart-mcp-manifest?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/adjsdevelopers/Pivokart-mcp-manifest?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/adjsdevelopers/Pivokart-mcp-manifest?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues/adjsdevelopers/Pivokart-mcp-manifest?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MCP-Enabled-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/API-REST-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Auth-OAuth2-orange?style=for-the-badge" />
