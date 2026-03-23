@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/adjsdevelopers/pivokart-mcp?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/adjsdevelopers/Pivokart-mcp-manifes?style=for-the-badge" />
   <img src="https://img.shields.io/github/forks/adjsdevelopers/pivokart-mcp?style=for-the-badge" />
   <img src="https://img.shields.io/github/license/adjsdevelopers/pivokart-mcp?style=for-the-badge" />
   <img src="https://img.shields.io/github/issues/adjsdevelopers/pivokart-mcp?style=for-the-badge" />
